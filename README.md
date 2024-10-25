@@ -1,0 +1,2 @@
+Estas funciones ayudan a implementar el Algoritmo R3, el cuál ayuda a reducir la colinealidad de datos observacionales a través de la aumentación de información. El caso para el cuál se construyó este algoritmo corresponde al artículo "A sequential augmentation method to eliminate
+multicollinearity" de Armando J. Ríos & James R. Simpson (2017), Quality Engineering, 29:4, 588-604, DOI:10.1080/08982112.2016.1258474.
